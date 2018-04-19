@@ -4,7 +4,8 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "start": "node your-script.js"
   },
   "keywords": [
     "portfolio",
@@ -14,6 +15,7 @@
     "coding",
     "dev"
   ],
+  
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -25,3 +27,4 @@
     "gulp-wait": "0.0.2"
   }
 }
+
