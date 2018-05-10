@@ -4,8 +4,9 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch",
-    "start": "node gulpfile.js"
+    // "watch": "gulp watch",
+    "start": "node app",
+    "postinstall": "gulp default"
   },
   "keywords": [
     "portfolio",
