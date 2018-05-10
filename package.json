@@ -5,8 +5,7 @@
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch",
-    "start": "node gulpfile.js",
-    "postinstall": "gulp default"
+    "start": "node gulpfile.js"
   },
   "keywords": [
     "portfolio",
